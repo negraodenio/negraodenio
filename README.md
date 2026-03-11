@@ -1,16 +1,33 @@
 ## Hi there 👋
+# Denio Negrão
 
-<!--
-**negraodenio/negraodenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Architect specialized in building production-grade AI systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build production-grade AI systems for regulated environments such as healthcare and enterprise platforms.
+
+My work focuses on RAG architectures, multi-LLM orchestration and AI governance, turning business requirements into scalable and reliable AI systems.
+
+### Areas of expertise
+
+- Retrieval Augmented Generation (RAG)
+- Multi-LLM orchestration
+- AI system architecture
+- LLM alignment and evaluation
+- AI governance and safety layers
+- Enterprise AI infrastructure
+
+### Technologies
+
+- Python
+- Supabase
+- Vector Databases
+- Vercel
+- Replit
+- OpenRouter
+- LLM APIs
+
+### Current Focus
+
+Building reliable AI systems for real-world production environments.
