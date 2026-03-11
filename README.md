@@ -15,6 +15,7 @@ My work focuses on RAG architectures, multi-LLM orchestration and AI governance,
 - Multi-LLM orchestration
 - AI system architecture
 - LLM alignment and evaluation
+  LLM fine tunning
 - AI governance and safety layers
 - Enterprise AI infrastructure
 
@@ -27,6 +28,7 @@ My work focuses on RAG architectures, multi-LLM orchestration and AI governance,
 - Replit
 - OpenRouter
 - LLM APIs
+- Antigravity
 
 ### Current Focus
 
